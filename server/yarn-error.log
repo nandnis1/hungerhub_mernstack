@@ -1,0 +1,72 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\ASUS\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add nodemon -D
+
+PATH: 
+  C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\nodejs\;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Java\jdk1.8.0_65\bin;C:\Users\ASUS\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  14.17.5
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'D:\pizza project\Pizza FrontEnd\node_modules\bcrypt\lib\binding\napi-v3\bcrypt_lib.node'
+
+npm manifest: 
+  {
+    "name": "pizza_project",
+    "version": "1.0.0",
+    "description": "This is pizza app",
+    "main": "index.js",
+    "scripts": {
+      "sass": "sass --watch resources/scss:public/css",
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "nodemon server.js",
+      "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+      "watch": "npm run development -- --watch",
+      "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+    },
+    "author": "Tirth",
+    "license": "ISC",
+    "dependencies": {
+      "@stripe/stripe-js": "^1.22.0",
+      "aos": "^2.3.4",
+      "axios": "^0.19.2",
+      "bcrypt": "^5.0.0",
+      "bootstrap": "^5.1.3",
+      "bootstrap-icons": "^1.8.1",
+      "connect-mongo": "^3.2.0",
+      "dotenv": "^8.2.0",
+      "ejs": "^3.1.3",
+      "express": "^4.17.1",
+      "express-ejs-layouts": "^2.5.0",
+      "express-flash": "0.0.2",
+      "express-session": "^1.17.1",
+      "moment": "^2.27.0",
+      "mongoose": "^5.9.25",
+      "multer": "^1.4.4",
+      "noty": "^3.2.0-beta-deprecated",
+      "passport": "^0.4.1",
+      "passport-local": "^1.0.0",
+      "socket.io": "^2.3.0",
+      "stripe": "^8.118.0"
+    },
+    "devDependencies": {
+      "cross-env": "^7.0.3",
+      "laravel-mix": "^5.0.4",
+      "resolve-url-loader": "^3.1.0",
+      "sass": "^1.49.0",
+      "sass-loader": "^8.0.2",
+      "vue-template-compiler": "^2.6.14"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

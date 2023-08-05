@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "6236b68f618ffb271c790412"
+  },
+  "name": "Veggie",
+  "image": "1647752846954Veggie.svg",
+  "price": 459,
+  "category": "pizza",
+  "size": "medium",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6236bee4618ffb271c79041f"
+  },
+  "name": "Cup Cake",
+  "image": "1647754980812Cup_Cake.svg",
+  "price": 49,
+  "category": "desserts",
+  "size": "medium",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6236befc618ffb271c790420"
+  },
+  "name": "Cheese Cake",
+  "image": "1647755004661Cheese_Cake.svg",
+  "price": 149,
+  "category": "desserts",
+  "size": "medium",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6236bf11618ffb271c790421"
+  },
+  "name": "Brownie",
+  "image": "1647755025973Brownie.svg",
+  "price": 79,
+  "category": "desserts",
+  "size": "medium",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6236bf27618ffb271c790422"
+  },
+  "name": "Waffle",
+  "image": "1647755047379Waffle.svg",
+  "price": 99,
+  "category": "desserts",
+  "size": "medium",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6236c024618ffb271c790423"
+  },
+  "name": "Cola",
+  "image": "1647755300644Cola.svg",
+  "price": 49,
+  "category": "drinks",
+  "size": "medium",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6236c0c9618ffb271c790424"
+  },
+  "name": "Soda",
+  "image": "1647755465424Soda.svg",
+  "price": 40,
+  "category": "drinks",
+  "size": "medium",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6236c0e7618ffb271c790425"
+  },
+  "name": "Energy",
+  "image": "1647755495419Energy.svg",
+  "price": 85,
+  "category": "drinks",
+  "size": "large",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6236c11b618ffb271c790426"
+  },
+  "name": "Fresh Lime",
+  "image": "1647755547928Fresh_Lime.svg",
+  "price": 39,
+  "category": "drinks",
+  "size": "medium",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6236c93c618ffb271c79042d"
+  },
+  "name": "Veg Crispy Burger",
+  "image": "1647757628451Veg_Crispy_Burger.svg",
+  "price": 89,
+  "category": "burgers",
+  "size": "medium",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6236c964618ffb271c79042e"
+  },
+  "name": "Veg Double Patty",
+  "image": "1647757668679Veg_Double_Patty.svg",
+  "price": 119,
+  "category": "burgers",
+  "size": "medium",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6236c992618ffb271c79042f"
+  },
+  "name": "Classic Veg Burger",
+  "image": "1647757714616Classic_Veg_Burger.svg",
+  "price": 139,
+  "category": "burgers",
+  "size": "medium",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6236ca66618ffb271c790432"
+  },
+  "name": "Tandoor Grill Burger",
+  "image": "1647757926651Tandoor_Grill_Burger.svg",
+  "price": 129,
+  "category": "burgers",
+  "size": "medium",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623af31636f9a529789774d7"
+  },
+  "name": "Mashroom",
+  "image": "1648030486141Mashroom.svg",
+  "price": 349,
+  "category": "pizza",
+  "size": "medium",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623af37936f9a529789774d8"
+  },
+  "name": "Bismarck",
+  "image": "1648030585770Bismarck.svg",
+  "price": 419,
+  "category": "pizza",
+  "size": "large",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623af3c036f9a529789774d9"
+  },
+  "name": "Margherita",
+  "image": "1648030656419Margherita.svg",
+  "price": 359,
+  "category": "pizza",
+  "size": "medium",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623af68336f9a529789774dc"
+  },
+  "name": "Francescana",
+  "image": "1648031363450Francescana.svg",
+  "price": 599,
+  "category": "pizza",
+  "size": "large",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623af86836f9a529789774de"
+  },
+  "name": "pepperoni",
+  "image": "1648031848436Pepperoni.svg",
+  "price": 449,
+  "category": "pizza",
+  "size": "large",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623afbd936f9a529789774df"
+  },
+  "name": "7 Cheese",
+  "image": "16480327299437_Cheese_Pizza.svg",
+  "price": 499,
+  "category": "pizza",
+  "size": "large",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623afe544d369211e035cca9"
+  },
+  "name": "Paneer",
+  "image": "1648033364146Paneer_Paperoni.svg",
+  "price": 229,
+  "category": "pizza",
+  "size": "small",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b0b32dfd9880b78fecb61"
+  },
+  "name": "Pineapple",
+  "image": "1648036658769Pineapple.svg",
+  "price": 55,
+  "category": "drinks",
+  "size": "medium",
+  "__v": 0
+}]
